@@ -3,7 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). toolkit
 
 ## Available Scripts
-[check]
+- [ ] done development
+- [ ] almost done 
+- [ ] in progrss
 In the project directory, you can run:
 
 ### `npm start`
